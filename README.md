@@ -89,7 +89,8 @@ npm start
 
 ---
 
- API Endpoints (Sample)
+
+API Endpoints (Sample)
 
 Method	       Endpoint	                 Description
 POST     	   /generate-ad	         Generate full ad creative
@@ -98,7 +99,7 @@ GET	          /campaigns	            Retrieve saved campaigns
 
 ---
 
-## 🚀 Future Enhancements
+🚀 Future Enhancements
 
 - 📊 Performance analytics dashboard  
 - 🎯 AI-based ad performance prediction  
@@ -107,13 +108,13 @@ GET	          /campaigns	            Retrieve saved campaigns
 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
 
-**Gobika P**
+Gobika P
 
 ---
 
-## 📄 License
+📄 License
 
 This project is licensed under the MIT License.
 
