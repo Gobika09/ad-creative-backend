@@ -96,46 +96,26 @@ POST     	   /generate-ad	         Generate full ad creative
 POST	       /upload-logo	             Upload brand logo
 GET	          /campaigns	            Retrieve saved campaigns
 
+---
 
+## 🚀 Future Enhancements
+
+- 📊 Performance analytics dashboard  
+- 🎯 AI-based ad performance prediction  
+- 🌐 Multi-platform export (Instagram, LinkedIn, Facebook)  
+- 🤖 Fine-tuned brand-specific LLM  
 
 ---
 
+## 👩‍💻 Author
 
-🚀 Future Enhancements
-📊 Performance analytics dashboard
-🎯 AI-based ad performance prediction
-🌐 Multi-platform export (Instagram, LinkedIn, Facebook)
-🤖 Fine-tuned brand-specific LLM
-
-👩‍💻 Author
-GOBIKA P
+**Gobika P**
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License.
 
 
-📄 License
-
-MIT License
-
----
-
-# 🔥 Why this README is strong
-- Shows **AI + backend + real-world use case**
-- Uses **industry terms (multi-modal, LLM, pipeline, compositing)**
-- Includes **architecture + roadmap (very important for recruiters)**
-
----
-
-## 🚀 Want next upgrade?
-I can make it even better by adding:
-- 📸 :contentReference[oaicite:0]{index=0}  
-- 🎥 :contentReference[oaicite:1]{index=1}  
-- 🧠 :contentReference[oaicite:2]{index=2}  
-- 💼 :contentReference[oaicite:3]{index=3}  
-
-Just tell me 👍
-
-
----
 
