@@ -87,12 +87,15 @@ cd ad-creative-backend
 npm install
 npm start
 
+---
+
  API Endpoints (Sample)
 
 Method	       Endpoint	                 Description
 POST     	   /generate-ad	         Generate full ad creative
 POST	       /upload-logo	             Upload brand logo
 GET	          /campaigns	            Retrieve saved campaigns
+
 
 
 ---
@@ -106,6 +109,9 @@ GET	          /campaigns	            Retrieve saved campaigns
 
 👩‍💻 Author
 GOBIKA P
+
+---
+
 
 
 📄 License
@@ -129,3 +135,7 @@ I can make it even better by adding:
 - 💼 :contentReference[oaicite:3]{index=3}  
 
 Just tell me 👍
+
+
+---
+
